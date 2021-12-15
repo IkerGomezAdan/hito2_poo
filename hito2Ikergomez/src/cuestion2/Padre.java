@@ -1,5 +1,5 @@
 package cuestion2;
-//La clase Padre es abstracta (no instanciada) ya que podee métodos en común.
+//clase padre
 public abstract class Padre {
 
 	String nombre;
