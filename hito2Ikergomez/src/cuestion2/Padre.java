@@ -14,7 +14,7 @@ public Padre(String pnombre, int pedad) {
 
  
 }
-//saludos
+//funcion saludar del padre
 public void Saludar() {
 	System.out.println("Hola soy el padre"+ nombre);
  }
